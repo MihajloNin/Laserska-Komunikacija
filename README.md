@@ -3,7 +3,8 @@
 ## Dnevnik projekta:
 
 ### 01.07.2023. 
-- Uradio sam istraživanje komponenti i glavnog sistema upravljanja
+- Uradio sam istraživanje principa rada
+- Napisao sam kod za konverziju reči u decimalni broj po ASCII
 
 
 ------------------------------------------------------------------
