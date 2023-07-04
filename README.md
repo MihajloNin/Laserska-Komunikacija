@@ -1,5 +1,10 @@
-# Laserska_komunikacija
+# Laserska komunikacija
 
+## Opis projekta:
+
+"Laserska komukacija" je projekat rađen na seminaru elektronike u Istraživačkoj stanici Petnica. Predstavlja model za prenos informacija kroz prazan prostor koristeći laserski snop. Sastavne komponente su Arduino laserski modul, kao predajnik, i fotodioda, kao prijemnik. Ceo sistem upravljan je sa po jednim Arduino Uno mikrokontrolerom sa prijemne i predajne strane.
+
+-------------------------------------------------------------------
 ## Dnevnik projekta:
 
 ### 01.07.2023. 
